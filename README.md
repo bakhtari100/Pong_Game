@@ -3,6 +3,7 @@
 This repository contains two variations of the classic Pong game implemented in Python using the `pygame` library:
 
 1.**Classic Pong** (`pong_game.py`): A traditional Pong game with simple mechanics and a clean design.
+
 2. **Harry Potter Pong** (`harrypotter_pong.py`): A magical twist on the classic Pong game, featuring Hogwarts houses, a golden snitch, and themed colors.
 
 ---
